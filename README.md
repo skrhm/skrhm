@@ -1,4 +1,4 @@
-<h1 align="center">Now editing.</h1>
+<h1 align="center">Updating...</h1>
 
 ![](https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg)
 
