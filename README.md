@@ -2,8 +2,8 @@
 
 ![](https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg)
 
+![skrhm's GitHub stats](https://github-repository-stats.vercel.app/api?username=skrhm&show_icons=true&count_private=true)
 ![skrhm's GitHub stats](https://github-repository-stats-clone-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true)
-
 
 
 <!-- ## Hi there 👋 -->
