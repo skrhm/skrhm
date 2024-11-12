@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg)
 
+![skrhm's GitHub stats](https://github-readme-stats.vercel.app/api?username=skrhm&count_private=true)
+
 <!-- ## Hi there 👋 -->
 
 <!--
