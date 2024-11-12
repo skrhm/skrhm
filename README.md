@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
 ---
 
@@ -20,6 +20,6 @@
 
 ### 📈 GitHub Stats & Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="skrhm's GitHub stats">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Langs" width="30%">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="skrhm's GitHub stats" width="45%" height="195px">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Langs" width="30%" height="195px">
 </div>
