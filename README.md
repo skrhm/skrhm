@@ -1,25 +1,25 @@
-<h1 align="center">Updating...</h1>
+<h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,js,html,css,java,kotlin,)](https://skillicons.dev)
+---
 
-![](https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg)
+### 🛠️ Tech Skills
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,c,cs,java,kotlin,androidstudio,python,django" alt="My Skills">
+  </a>
+</div>
 
-![skrhm's GitHub stats](https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula)
-![Top Langs](https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula)
+---
 
-<!-- ## Hi there 👋 -->
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
+</div>
 
-<!--
-**skrhm/skrhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats & Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="skrhm's GitHub stats">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Langs" width="30%">
+</div>
