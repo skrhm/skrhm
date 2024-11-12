@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
----
-
 ### 🛠️ Tech Skills
 
 <div align="center">
