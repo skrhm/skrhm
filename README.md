@@ -2,12 +2,8 @@
 
 ![](https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg)
 
-![skrhm's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula)
 ![skrhm's GitHub stats](https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula)
-
-
-
-![skrhm's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skrhm&count_private=true&theme=dracula)
+![Top Langs](https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula)
 
 <!-- ## Hi there 👋 -->
 
