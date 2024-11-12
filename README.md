@@ -1,5 +1,7 @@
 <h1 align="center">Updating...</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=c,cs,js,html,css,java,kotlin,)](https://skillicons.dev)
+
 ![](https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg)
 
 ![skrhm's GitHub stats](https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula)
