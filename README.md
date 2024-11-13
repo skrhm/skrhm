@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Profile</h1>
 
 <div align="center">
-  <p><sub>⚠️ <s><strong>キリ番踏み逃げ禁止！</strong></s> ⚠️</sub></p>
+  <p><sub><s><strong>キリ番踏み逃げ禁止！</strong></s></sub></p>
   <img alt="Counter" src="https://count.getloli.com/get/@skrhm?theme=rule34" />
 </div>
 
@@ -36,4 +36,10 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</div>
+
+<h3 align="center">🔗 Links</h3>
+
+<div align="center">
+  <p>[Access Counter](https://count.getloli.com)</p>
 </div>
