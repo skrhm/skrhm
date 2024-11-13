@@ -1,6 +1,11 @@
 <h1 align="center">Welcome to My Profile</h1>
 
-### 🛠️ Tech Skills
+<div align="center">
+  <p><sub><span style="color:gray;">⚠️ <s>キリ番を踏んだら報告してね！ ※<strong>キリ番踏み逃げ禁止！</strong></s> ⚠️</span></sub></p>
+  <img src="https://kauntah-svg.vercel.app/counter.svg?asset=colorful" referrerpolicy="origin"/>
+</div>
+
+### 🛠️ Skills
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -21,6 +26,6 @@
 ### 📈 GitHub Stats & Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="skrhm's GitHub stats" width="45%" height="195px">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Langs" width="30%" height="195px">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="skrhm's GitHub stats" width="50%">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Langs" width="34%">
 </div>
