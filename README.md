@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><sub><span style="color:gray;">⚠️ <s>キリ番を踏んだら報告してね！ ※<strong>キリ番踏み逃げ禁止！</strong></s> ⚠️</span></sub></p>
-  <img src="https://kauntah-svg.vercel.app/counter.svg?asset=colorful" referrerpolicy="origin"/>
+  <img src="https://kauntah-svg.vercel.app/counter.svg" referrerpolicy="origin" />
 </div>
 
 ### 🛠️ Skills
