@@ -42,5 +42,7 @@
 
 <div align="center">
   <p>Access Counter: <a href="https://count.getloli.com" target="_blank">https://count.getloli.com</a></p>
-  <!-- 他のリンクがあればここに追加してください -->
+  <p>Stats & Languages: <a href="https://github-readme-stats.vercel.app" target="_blank">https://github-readme-stats.vercel.app</a></p>
+  <p>GitHub Streak: <a href="https://git.io/streak-stats" target="_blank">https://git.io/streak-stats</a></p>
+  <p>Skill Icons: <a href="https://skillicons.dev" target="_blank">https://skillicons.dev</a></p>
 </div>
