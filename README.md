@@ -24,6 +24,12 @@
   <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Languages" width="38%">
 </div>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skrhm&theme=dark" alt="GitHub Streak">
+  </a>
+</div>
+
 <hr>
 
 <h3 align="center">🐍 Contribution Snake</h3>
