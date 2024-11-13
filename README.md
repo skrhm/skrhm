@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><sub><s><strong>キリ番踏み逃げ禁止！</strong></s></sub></p>
-  <img alt="Counter" src="https://count.getloli.com/get/@skrhm?theme=rule34" />
+  <img alt="Access Counter" src="https://count.getloli.com/get/@skrhm?theme=rule34" />
 </div>
 
 <hr>
@@ -25,9 +25,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=skrhm&theme=dracula&border_radius=1" alt="GitHub Streak" width="80%">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=skrhm&theme=dracula&border_radius=1" alt="GitHub Streak" width="80%">
 </div>
 
 <hr>
@@ -38,8 +36,11 @@
   <img src="https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
 
+<hr>
+
 <h3 align="center">🔗 Links</h3>
 
 <div align="center">
-  <p>[Access Counter](https://count.getloli.com)</p>
+  <p>Access Counter: <a href="https://count.getloli.com" target="_blank">https://count.getloli.com</a></p>
+  <!-- 他のリンクがあればここに追加してください -->
 </div>
