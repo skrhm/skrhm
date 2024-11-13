@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Profile</h1>
 
 <div align="center">
-  <p><sub><s><strong>キリ番踏み逃げ禁止！</strong></s></sub></p>
+  <p><sub>\ <s><strong>キリ番踏み逃げ禁止！</strong></s> /</sub></p>
   <img alt="Access Counter" src="https://count.getloli.com/get/@skrhm?theme=rule34" />
 </div>
 
