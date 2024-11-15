@@ -9,19 +9,19 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,django,r,java,kotlin,c,cs,mysql,unity,raspberrypi,linux,windows,gcp,vercel,androidstudio,eclipse,gradle,vscode,atom,sublime,vim,md,notion,ps,ai" alt="Skills and Tools">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,django,r,java,kotlin,c,cs,mysql,unity,raspberrypi,linux,windows,gcp,vercel,androidstudio,eclipse,gradle,vscode,atom,notion,ps,ai" alt="Skills and Tools">
   </a>
 </div>
 
 <h2 align="center">📈 Stats & Languages</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" width="44%">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Languages" width="30%">
+  <img src="https://streak-stats.demolab.com?user=skrhm&theme=dracula&border_radius=1" alt="GitHub Streak" width="50%">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=skrhm&theme=dracula&border_radius=1" alt="GitHub Streak" width="50%">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" width="44%">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Languages" width="30%">
 </div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
 
-<h2 align="center">🔗 Links</h2>
+<h2 align="">🔗 Links</h2>
 
 <div align="left">
   <ul>
