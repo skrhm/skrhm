@@ -34,9 +34,9 @@
 
 <div align="left">
   <ul>
-    <li><a href="https://count.getloli.com" target="_blank">https://count.getloli.com</a></li>
-    <li><a href="https://github-readme-stats.vercel.app" target="_blank">https://github-readme-stats.vercel.app</a></li>
-    <li><a href="https://git.io/streak-stats" target="_blank">https://git.io/streak-stats</a></li>
     <li><a href="https://skillicons.dev" target="_blank">https://skillicons.dev</a></li>
+    <li><a href="https://count.getloli.com" target="_blank">https://count.getloli.com</a></li>
+    <li><a href="https://git.io/streak-stats" target="_blank">https://git.io/streak-stats</a></li>
+    <li><a href="https://github-readme-stats.vercel.app" target="_blank">https://github-readme-stats.vercel.app</a></li>
   </ul>
 </div>
