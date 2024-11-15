@@ -16,7 +16,7 @@
 <h2 align="center">📈 Stats & Languages</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=skrhm&theme=dracula&border_radius=1" alt="GitHub Streak" width="50%">
+  <img src="https://streak-stats.demolab.com?user=skrhm&theme=dracula&border_radius=2" alt="GitHub Streak" width="50%">
 </div>
 
 <div align="center">
