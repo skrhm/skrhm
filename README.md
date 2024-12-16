@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/skrhm/skrhm/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
 
-<h2 align="">🔗 Links</h2>
+<h2 align="center">🔗 Links</h2>
 
 <div align="left">
   <ul>
