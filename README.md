@@ -34,7 +34,6 @@
 
 <div align="left">
   <ul>
-    <li><h3><a href="https://skrhm.github.io">さくらのぺーじ</a></h3></li>
     <li><a href="https://github.com/journey-ad/Moe-Counter" target="_blank">https://github.com/journey-ad/Moe-Counter</a></li>
     <li><a href="https://skillicons.dev" target="_blank">https://skillicons.dev</a></li>
     <li><a href="https://git.io/streak-stats" target="_blank">https://git.io/streak-stats</a></li>
