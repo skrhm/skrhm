@@ -20,11 +20,8 @@
 </div>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" width="44%"> -->
-<!--   <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true&theme=dracula" alt="Top Languages" width="30%"> -->
-
-<img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&show_icons=true&count_private=true" alt="GitHub Stats" width="44%">
-<img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&layout=donut&count_private=true" alt="Top Languages" width="30%">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" width="44%">
+  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&count_private=true&layout=donut&theme=dracula" alt="Top Languages" width="30%">
 </div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
