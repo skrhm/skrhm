@@ -15,14 +15,40 @@
 
 <h2 align="center">📈 Stats & Languages</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-skrhm.vercel.app?user=skrhm&theme=dracula" alt="GitHub Streak" width="50%">
-</div>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+        <img src="https://raw.githubusercontent.com/skrhm/skrhm/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
+        <img src="https://github-readme-streak-stats-skrhm.vercel.app?user=skrhm&theme=dracula" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+        <img src="https://raw.githubusercontent.com/skrhm/skrhm/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Top Language By Repository" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
+        <img src="https://raw.githubusercontent.com/skrhm/skrhm/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Top Language By Commit" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" width="44%">
-  <img src="https://github-readme-stats-skrhm.vercel.app/api/top-langs/?username=skrhm&count_private=true&layout=donut&theme=dracula" alt="Top Languages" width="30%">
-</div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
