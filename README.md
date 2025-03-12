@@ -5,7 +5,7 @@
   <img alt="Access Counter" src="https://count.getloli.com/get/@skrhm?theme=rule34" />
 </div>
 
-<h2 align="center">🛠️ Skills ＆ Tools</h2>
+<h2 align="center">🛠️ Skills & Tools</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
