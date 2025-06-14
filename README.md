@@ -5,14 +5,6 @@
   <img alt="Access Counter" src="https://count.getloli.com/get/@skrhm?theme=rule34" />
 </div>
 
-<h2 align="center">🛠️ Skills & Tools</h2>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,django,r,java,kotlin,c,cs,mysql,unity,raspberrypi,linux,windows,gcp,vercel,androidstudio,eclipse,gradle,vscode,atom,notion,ps,ai" alt="Skills and Tools">
-  </a>
-</div>
-
 <h2 align="center">📈 Stats & Language</h2>
 <div align="center">
   <img src="https://github-readme-stats-skrhm.vercel.app/api?username=skrhm&hide_border=true&bg_color=0d1117&hide_title=true&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
