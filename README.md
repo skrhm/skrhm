@@ -66,8 +66,6 @@
 <div align="center">
 <p align="center">
   <sub>I used to code everything by hand, but now I just let ChatGPT handle it.</sub>
-</p>
-<p align="center">
   <sub>This person could just sign up for Claude Pro instead of going on about it...</sub>
 </p>
 </div>
