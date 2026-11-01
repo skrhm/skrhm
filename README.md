@@ -57,7 +57,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=skrhm&hide_border=true&bg_color=00000000&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=skrhm&hide_border=true&bg_color=00000000&hide_title=true&show_icons=true&include_all_commits=true&theme_light=buefy&theme_dark=dracula" alt="Dracula" />
 </div>
 
 <div align="center">
