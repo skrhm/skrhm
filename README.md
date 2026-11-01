@@ -57,7 +57,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=skrhm&hide_border=true&bg_color=0d1117&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=skrhm&hide_border=true&bg_color=00000000&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
