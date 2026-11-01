@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><sub>\&nbsp;<s><strong>キリ番踏み逃げ禁止！</strong></s>&nbsp;/</sub></p>
-  <img src="https://count.getloli.com/get/@skrhm?theme=rule34"alt="Access Counter"/>
+  <img src="https://count.getloli.com/get/@skrhm?theme=rule34" alt="Access Counter"/>
 </div>
 
 <div align="center">
@@ -10,9 +10,6 @@
     <sub>I get curious about things and end up making stuff.</sub>
   </p>
 </div>
-
-
-
 
 <h2 align="center">🚀 Projects</h2>
 
@@ -64,10 +61,10 @@
 </div>
 
 <div align="center">
-<p align="center">
-  <sub>I used to code everything by hand, but now I just let ChatGPT handle it.</sub><br/>
-  <sub>This person could just sign up for Claude Pro instead of going on about it...</sub>
-</p>
+  <p align="center">
+    <sub>I used to code everything by hand, but now I just let ChatGPT handle it.</sub><br/>
+    <sub>This person could just sign up for Claude Pro instead of going on about it...</sub>
+  </p>
 </div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
