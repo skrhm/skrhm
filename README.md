@@ -3,18 +3,13 @@
 <div align="center">
   <p><sub>\&nbsp;<s><strong>キリ番踏み逃げ禁止！</strong></s>&nbsp;/</sub></p>
   <img src="https://count.getloli.com/get/@skrhm?theme=rule34" alt="Access Counter"/>
-</div>
-
-<div align="center">
-  <p align="center">
-    <sub>I get curious about things and end up making stuff.</sub>
-  </p>
+  <p><sub>I get curious about things and end up making stuff.</sub></p>
 </div>
 
 <h2 align="center">🚀 Projects</h2>
 
 <div align="center">
-  <p><sub>🏠 I inhabit a private repository.</sub></p>
+  <p><sub>🏠 A private repository is my habitat.</sub></p>
 </div>
 
 <table width="100%" align="center">
@@ -25,10 +20,12 @@
         I'm building a tool for the VRChat game world <a href="https://vrchat.com/home/world/wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd/info">Terrors of Nowhere</a> and updating it as I play.
       </p>
       <p>
-        It tracks instance history, shows the distribution of round types, provides timers for item effects, and retrieves enemy info earlier than usual.
+        It provides per-instance round histories, round-type statistics, and item-effect timers.
+        <br>
+        It also retrieves Wiki-based strategy information for Terrors.
       </p>
       <p>
-        I'm prioritizing the must-have gameplay features.
+        Development focuses on essential gameplay features.
       </p>
     </td>
   </tr>
@@ -37,15 +34,12 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <h4 align="center">MUGEN Character</h4>
+      <h4 align="center"><strong>MUGEN Character</strong></h4>
       <p>
         I'm creating <strong>Arcana</strong> as a God-tier character edit of Patchouli Knowledge from Touhou Project.
       </p>
       <p>
         Its current rank falls within the Lower God–Middle God range. It's designed for WinMUGEN.
-      </p>
-      <p>
-        混線 (Crosstalk) has been implemented and is still being adjusted. 隔離補助 is used exclusively for 全領域親変更 (All Areas Parent Change).
       </p>
       <p>
         I'll release Arcana once it performs well against the <strong>Middle-God-Challenge</strong>.
@@ -62,7 +56,7 @@
 
 <div align="center">
   <p align="center">
-    <sub>I used to code everything by hand, but now I just let ChatGPT handle it.</sub><br/>
+    <sub>I used to code everything by hand, but now I just let ChatGPT handle it.</sub><br>
     <sub>This person could just sign up for Claude Pro instead of going on about it...</sub>
   </p>
 </div>
